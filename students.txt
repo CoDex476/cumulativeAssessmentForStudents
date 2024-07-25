@@ -1,0 +1,7 @@
+James 9 8 17 50
+Abednego 8 8 18 49
+Sampson 5 10 19 52
+Sustainer 7 9 15 52
+Amos 9 9 17 55
+Robert 9 8 17 50
+Joe 8 9 20 50
